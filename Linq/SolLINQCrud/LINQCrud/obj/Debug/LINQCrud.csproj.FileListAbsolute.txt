@@ -1,0 +1,11 @@
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\bin\Debug\LINQCrud.exe.config
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\bin\Debug\LINQCrud.exe
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\bin\Debug\LINQCrud.pdb
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.Form1.resources
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.Properties.Resources.resources
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.exe
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.pdb
+C:\Users\Marko\Desktop\Kolokvijumska c#\Linq\SolLINQCrud\LINQCrud\obj\Debug\LINQCrud.Form2.resources
